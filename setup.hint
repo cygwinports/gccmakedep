@@ -1,0 +1,4 @@
+category: X11 Devel
+requires: bash
+sdesc: "Xorg preprocessor dependency maker"
+ldesc: "Xorg preprocessor dependency maker"
