@@ -1,6 +1,6 @@
 gccmakedep
 ------------------------------------------
-Xorg preprocessor dependency maker
+X.Org preprocessor dependency maker
 
 Build requirements:
   cygwin-1.5.20-1
