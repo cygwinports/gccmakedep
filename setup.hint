@@ -1,4 +1,0 @@
-category: X11 Devel
-requires: bash
-sdesc: "X.Org preprocessor dependency maker"
-ldesc: "X.Org preprocessor dependency maker"
