@@ -1,7 +1,7 @@
 inherit xorg
 
 NAME="gccmakedep"
-VERSION=1.0.2
+VERSION=1.0.3
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="X Makefile dependency tool for GCC"
@@ -9,3 +9,4 @@ DESCRIPTION="The gccmakedep program calls 'gcc -M' to output makefile rules
 describing the dependencies of each sourcefile, so that make(1) knows which
 object files must be recompiled when a dependency has changed."
 REQUIRES="gcc-core"
+ARCH="noarch"
